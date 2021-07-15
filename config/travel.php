@@ -1,0 +1,53 @@
+<?php
+return [
+    [
+        "area" => "Nord Africa",
+        "country" => "Egitto",
+        "name" => "Nilo Mar Rosso",
+        "duration_day" => "15",
+        "price_eur" => "1100",
+        "type" => "Hotel 4stelle All-inclusive",
+        "period" => "Tutto l'anno",
+        "info" => "Un itinerario affascinante attraverso strade affollate e polverose lungo la lussureggiante Valle del Nilo alla scoperta di una storia antica e avvincente, tra le eccezionali vestigia della civiltà faraonica di cui tutta la valle porta i segni e le testimonianze indelebili, particolarmente indirizzato ai giovani sui quali esercita giustamente un’attrazione e un fascino notevoli quale appunto è quello che emana dalla collina di Giza , dalle piramidi di Cheope, Chefren e Micerino, dalla Sfinge dai due giganteschi templi di Abu Simbel.",
+    ],
+    [
+        "area" => "Europa",
+        "country" => "Italia",
+        "name" => "Selvaggio Blu",
+        "duration_day" => "7",
+        "price_eur" => "1400",
+        "type" => "B&B, bivacchi e ovili",
+        "period" => "mag-set",
+        "info" => "Viene definito uno dei trekking più difficili d’Italia non tanto per le difficoltà tecniche ma per l’isolamento ambientale dovuto proprio per l’indole selvaggia che lo rende inaccessibile e luogo tra i più belli di tutta la Sardegna. ",
+    ],
+    [
+        "area" => "Europa",
+        "country" => "Italia",
+        "name" => "Dolomiti Trek",
+        "duration_day" => "9",
+        "price_eur" => "600",
+        "type" => "bivacchi, malghe e rifugi durante il trek, appartamenti o alberghetti",
+        "period" => "mag-ott",
+        "info" => "Un viaggio avventuroso alla scoperta delle Dolomiti, capolavoro della natura fra le montagne più belle del mondo e nostro orgoglio nazionale. Un giro tra Veneto, Trentino e Friuli che ci porterà ad assaporare questi fantastici luoghi a piedi, in bicicletta e, perché no, dall’interno di strettissime gole discendendo cascate e percorrendo corsi d’acqua.",
+    ],
+    [
+        "area" => "Nord Europa",
+        "country" => "Islanda",
+        "name" => "Islanda Skifjord",
+        "duration_day" => "9",
+        "price_eur" => "2560",
+        "type" => "Rifugi, ostelli, case private, tenda se necessario",
+        "period" => "mar-mag",
+        "info" => "Un percorso di scoperta di un angolo di Islanda poco conosciuto, al di fuori degli itinerari classici dove, oltre alle incommensurabili bellezze naturali, la vita genuina delle genti locali è ancora una ricchezza da scoprire ed apprezzare. Un viaggio nel Nord Ovest del paese tra le montagne che delimitano e separano i fiordi Eyjafjorour, Olafsfjorour, Siglufjorour, Heoinsfjorour. Trascorreremo sei giorni in questa zona dedicandoci interamente allo scialpinismo con una o più gite giornaliere con sistemazione negli ostelli locali. Rientrati a Reykjavik ancora tre giorni in libertà con auto a nolo a scoprire la wilderness dell’Islanda classica con le sue cascate ed i suoi geysers e, tempo e strade permettendo.",
+    ],
+    [
+        "area" => "Sud Est Asiatico",
+        "country" => "Vietnam",
+        "name" => "Vietnam Motoraid",
+        "duration_day" => "17",
+        "price_eur" => "3070",
+        "type" => "alberghetti",
+        "period" => "Tutto l'anno",
+        "info" => "Una nuova avventura motociclistica in sella su moto a nolo attraverso tutto il Vietnam. ",
+    ]
+];
