@@ -17,8 +17,8 @@ class TravelsTableSeeder extends Seeder
             $travel = new Travel();
             foreach ($item as $key => $value) {
                 $travel->{$key} = $value;
-            }
+            };
             $travel->save();
-        }
+        };
     }
 }

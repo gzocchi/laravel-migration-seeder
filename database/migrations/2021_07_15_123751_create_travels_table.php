@@ -21,7 +21,7 @@ class CreateTravelsTable extends Migration
             $table->unsignedTinyInteger('duration_day');
             $table->float('price_eur', 7, 2);
             $table->string('type', 100);
-            $table->string('period', 15)->default('Tutto l\'anno');
+            $table->string('period', 15);
             $table->text('info');
             $table->timestamps();
         });
